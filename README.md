@@ -20,3 +20,5 @@ Se perder as 3 vidas, você terá perdido o jogo e será mostrado o número sort
 
 Obrigada por jogar!
 ### Se divirta!
+
+
