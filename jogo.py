@@ -68,6 +68,7 @@ elif nivel == "difícil":
 
         tentativas += 1
 
+
 # Fim do jogo
 if tentativas == max_tentativas or (vidas is not None and vidas == 0):
     if nivel == "difícil":
